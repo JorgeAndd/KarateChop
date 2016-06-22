@@ -9,4 +9,4 @@ Day #1
 - Setting environment
 - Understanding unit testing using C# and Visual Studio
 - First Implementation:
-- .. - Simple approach: indexes *start*, *end* and *middle* are calculated to walk on array
+.. - Simple approach: indexes *start*, *end* and *middle* are calculated to walk on array
