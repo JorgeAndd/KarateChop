@@ -10,3 +10,7 @@ Binary Search implementation using 5 different techniques
 - Understanding unit testing using C# and Visual Studio
 - First Implementation:
   - Simple approach: indexes *start*, *end* and *middle* are calculated to walk on array
+
+## Day #2
+- Simple recursive implementation of binary search
+- Easier then first day. Maybe because I am remembering C# and data structure algorithms;
