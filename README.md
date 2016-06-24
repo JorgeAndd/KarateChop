@@ -14,3 +14,7 @@ Binary Search implementation using 5 different techniques
 ## Day #2
 - Simple recursive implementation of binary search
 - Easier then first day. Maybe because I am remembering C# and data structure algorithms;
+
+## Day #3
+- Kinda simple implementation, similar to the first one, but not using division. Uses only addition and subtraction and variables to keep track of array limits;
+- Getting hard to think of different approaches;
